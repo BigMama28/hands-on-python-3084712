@@ -85,7 +85,7 @@ for i, name in enumerate(NAMES):
 # zip verbindet die Listen zu Tupeln, die du in der Schleife gleichzeitig verwenden kannst.
 
 
-#erklärung range(5):
+#erklärung range(5):  sehr speichereffizient enumerate ist anscheinend aber trotzdem besser
 
 # range(5) erzeugt eine Folge von Zahlen von 0 bis 4 (insgesamt 5 Zahlen).
 # for i in range(5):
